@@ -7,3 +7,4 @@ O projeto também contém prototipação, sendo:
 --> Protótipo interativo: https://www.figma.com/proto/8Uo0yNzNa1lXOEdPnKZKud/Aplicativo-Restaurante-UniversiPr%C3%A1tico
 
 Alunos: Caio César Jordão Paccagnella, Guilherme Jucoski da Silva, Leonardo de Oliveira Godoy e Matheus Henrique Borsato.
+.
